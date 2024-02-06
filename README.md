@@ -20,6 +20,4 @@ Debugging multithreaded code can be difficult.
 Traditional debugging tools might not work well for workers, requiring specialized tools or techniques.
 
 #### Resources Link:
-
-Link: W3School AJAX
-Link: https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
+ https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
