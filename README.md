@@ -21,5 +21,5 @@ Traditional debugging tools might not work well for workers, requiring specializ
 
 #### Resources Link:
 
-W3School AJAX
-https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
+Link: W3School AJAX
+Link: https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
