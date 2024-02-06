@@ -21,3 +21,7 @@ Traditional debugging tools might not work well for workers, requiring specializ
 
 #### Resources Link:
  https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
+
+#### Live Website
+workerweb.netlify.app
+
